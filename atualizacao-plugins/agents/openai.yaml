@@ -1,0 +1,4 @@
+interface:
+  display_name: "Atualizacao Plugins"
+  short_description: "Audit WP sites after plugin updates"
+  default_prompt: "Use $atualizacao-plugins to inspect a WordPress site after plugin updates and produce a functional audit report with a test checklist."

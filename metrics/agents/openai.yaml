@@ -1,0 +1,4 @@
+interface:
+  display_name: "Metrics"
+  short_description: "Calculate QA health and Go Live indicators."
+  default_prompt: "Use $metrics to calculate QA metrics and a Go Live recommendation from my testing numbers."

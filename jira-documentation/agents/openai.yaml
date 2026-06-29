@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jira Documentation"
+  short_description: "Document Jira tasks from rough notes"
+  default_prompt: "Use $jira-documentation to turn my task summary into Jira-ready documentation."
